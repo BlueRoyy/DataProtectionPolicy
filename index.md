@@ -7,7 +7,7 @@ GDPR	               means the General Data Protection Regulation.
 Responsible Person	 means Kenroy Roach.
 Register of Systems	means a register of all systems or contexts in which personal data is processed by the Organisation.
 
-1. Data protection principles
+1. Data Protection Principles
 
 The Organisation is committed to processing data in accordance with its responsibilities under the GDPR. 
 Article 5 of the GDPR requires that personal data shall be:
@@ -24,7 +24,7 @@ e.	kept in a form which permits identification of data subjects for no longer th
 
 f.	processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures.”
 
-2. General provisions
+2. General Provisions
 
 a.	This policy applies to all personal data processed by the Organisation. 
 
@@ -42,7 +42,7 @@ b.	The Register of Systems shall be reviewed at least annually.
 
 c.	Individuals have the right to access their personal data and any such requests made to the Organisation shall be dealt with in a timely manner. 
 
-4. Lawful purposes
+4. Lawful Purposes
 
 a.	All data processed by the Organisation must be done on one of the following lawful bases: consent, contract, legal obligation, vital interests, public task or legitimate interests (see ICO guidance for more information). 
 
@@ -52,7 +52,7 @@ c.	Where consent is relied upon as a lawful basis for processing data, evidence 
 
 d.	Where communications are sent to individuals based on their consent, the option for the individual to revoke their consent should be clearly available and systems should be in place to ensure such revocation is reflected accurately in the Organisation’s systems.  
 
-5. Data minimisation
+5. Data Minimisation
 
 a.	The Organisation shall ensure that personal data are adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed. 
 
@@ -62,7 +62,7 @@ a.	The Organisation shall take reasonable steps to ensure personal data is accur
 
 b.	Where necessary for the lawful basis on which data is processed, steps shall be put in place to ensure that personal data is kept up to date. 
 
-7. Archiving / removal
+7. Archiving / Removal
 
 a.	To ensure that personal data is kept for no longer than necessary, the Organisation shall put in place an archiving policy for each area in which personal data is processed and review this process annually. 
 
