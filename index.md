@@ -2,9 +2,9 @@ Data Protection Policy
  
 Last updated	21st Jun 2018
 Definitions
-Organisation	means Kenroy Roach, a registered developer.
-GDPR	means the General Data Protection Regulation.
-Responsible Person	means Kenroy Roach.
+Organisation	       means Kenroy Roach, the registered developer of Barbados Government Directory App.
+GDPR	               means the General Data Protection Regulation.
+Responsible Person	 means Kenroy Roach.
 Register of Systems	means a register of all systems or contexts in which personal data is processed by the Organisation.
 
 1. Data protection principles
