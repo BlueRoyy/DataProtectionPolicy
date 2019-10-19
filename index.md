@@ -1,6 +1,6 @@
 Data Protection Policy
  
-Last updated	21st Jun 2018
+Last updated	18th Oct 2019
 Definitions
 Organisation	       means Kenroy Roach, the registered developer of Barbados Government Directory App.
 GDPR	               means the General Data Protection Regulation.
